@@ -1,4 +1,4 @@
-# online Shoppers Intent
+# Online Shoppers Intent
 
 ## Executive Summary:
 We are assuming the position of business members at DataScienceDeals.com a company that sells courses on Data Science. We have data related to the visitors that come to our site.
