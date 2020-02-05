@@ -6,7 +6,7 @@ We are assuming the position of business members at DataScienceDeals.com a compa
 The objective of this project is to predict which visitors are likely to produce revenue. This will feed into our new 1:1 chat help service feature that will be able to aid potential customers.
 
 ##  Key Files:
-1.  [Link](https://docs.google.com/presentation/d/1Cu6vxCA_1aIgoW1ZqArEayFVPDSDD8eRxzvjWMUvT2I/edit#slide=id.g76cc41dd4c_0_1)
+1.  [Link](https://docs.google.com/presentation/d/1Cu6vxCA_1aIgoW1ZqArEayFVPDSDD8eRxzvjWMUvT2I/edit?usp=sharing)
 to google slides presentation file
 2.  .pdf: PDF of presentation slides)to google slides presentation file: 
 3.  'namegoeshere'.ipynb: Jupyter Notebook
